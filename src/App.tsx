@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import { Dashboard } from "./components/dashboard/Dashboard";
 import { SingleSearch } from "./components/single-search/SingleSearch";
 import { Card } from "./components/dashboard/Card";
-import { LoginPage } from "./components/auth/LoginForm";
+import { LoginPage } from "./components/auth/LoginPage";
 import { SignUp } from "./components/auth/SignUpForm";
 
 function App() {
